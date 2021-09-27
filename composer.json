@@ -1,0 +1,12 @@
+{
+    "name": "alojatuweb/izar-route",
+    "description": "Izar-route is a PHP module that provides a fast implementation of a regular expression based router for the Izar Framework.",
+    "type": "library",
+    "license": "GPLv3",
+    "autoload": {
+        "psr-4": {
+            "Alojatuweb\\IzarRoute\\": "src/"
+        }
+    },
+    "require": {}
+}
