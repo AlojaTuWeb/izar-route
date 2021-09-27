@@ -11,7 +11,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Alojatuweb\\IzarRoute\\": "src/"
+            "AlojaTuWeb\\IzarRoute\\": "src/"
         }
     },
     "require": {}
